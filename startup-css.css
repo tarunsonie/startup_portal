@@ -1,0 +1,32 @@
+html, body{
+	background: url(header.jpg) no-repeat center center fixed;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+
+}
+h1{
+	color: #d4e2f1;
+	font-size: 3rem;
+}
+hr{
+	color: #007bff;
+	width: 150px;
+	border-color:#007bff; 
+}
+.buffer{
+ height: 10rem;
+}
+.btn{
+	font-weight: bold;
+	padding: 10px;
+	border-radius: 200px;
+	text-transform: uppercase;
+}
+.btn-primary:hover{
+	background-color: #b9b8c0;
+	border-color: #b9b8c0;
+}
+hr:hover{
+  border-color: #b9b8c0;
+}
